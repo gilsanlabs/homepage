@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <g fill="none" stroke="#000000" stroke-width="105"
+     stroke-linecap="round" stroke-linejoin="round">
+    <!-- Upward arrow/chevron -->
+    <path d="M 155 365 L 500 105 L 845 365"/>
+
+    <!-- Horizontal line -->
+    <path d="M 155 500 L 845 500"/>
+
+    <!-- Exact mirrored downward arrow/chevron -->
+    <path d="M 155 635 L 500 895 L 845 635"/>
+  </g>
+</svg>
