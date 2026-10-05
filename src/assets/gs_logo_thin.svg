@@ -2,12 +2,12 @@
   <g fill="none" stroke-width="105"
      stroke-linecap="round" stroke-linejoin="round">
     <!-- Upward arrow/chevron -->
-    <path stroke="#15803D" d="M 155 365 L 500 105 L 845 365"/>
+    <path stroke="#228B22" d="M 155 365 L 500 105 L 845 365"/>
 
     <!-- Horizontal line -->
-    <path stroke="#FACC15" d="M 155 500 L 845 500"/>
+    <path stroke="#D4A017" d="M 155 500 L 845 500"/>
 
     <!-- Exact mirrored downward arrow/chevron -->
-    <path stroke="#15803D" d="M 155 635 L 500 895 L 845 635"/>
+    <path stroke="#356B8C" d="M 155 635 L 500 895 L 845 635"/>
   </g>
 </svg>

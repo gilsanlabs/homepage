@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
   <g>
     <!-- Upper chevron -->
-    <path fill="#15803D" d="
+    <path fill="#228B22" d="
       M 70 410
       L 420 60
       Q 500 -20 580 60
@@ -12,10 +12,10 @@
       Z"/>
 
     <!-- Horizontal center bar -->
-    <rect fill="#FACC15" x="40" y="435" width="920" height="130" rx="65"/>
+    <rect fill="#D4A017" x="40" y="435" width="920" height="130" rx="65"/>
 
     <!-- Lower chevron: exact vertical mirror -->
-    <path fill="#15803D" d="
+    <path fill="#356B8C" d="
       M 70 590
       L 300 590
       L 500 790
